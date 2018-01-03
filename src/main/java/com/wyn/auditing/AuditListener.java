@@ -1,7 +1,5 @@
 package com.wyn.auditing;
 
-import javax.annotation.PostConstruct;
-import javax.persistence.EntityManager;
 import javax.persistence.PrePersist;
 import javax.persistence.PreRemove;
 import javax.persistence.PreUpdate;
